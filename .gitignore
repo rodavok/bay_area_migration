@@ -1,0 +1,5 @@
+*.xlsx
+CLAUDE.md
+venv/
+*.png
+*.csv
