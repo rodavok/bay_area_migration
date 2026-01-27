@@ -5,3 +5,4 @@ venv/
 *.csv
 caltrans-pems/
 .env
+pems/

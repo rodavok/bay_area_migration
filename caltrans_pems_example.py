@@ -21,8 +21,12 @@ Key Corridors for Commuter Analysis:
 """
 
 import os
+import sys
 import glob
 import pandas as pd
+
+# Add the cloned caltrans-pems repo to the path
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'caltrans-pems'))
 
 # =============================================================================
 # 1. Initialize handler with PeMS credentials
