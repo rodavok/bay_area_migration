@@ -3,3 +3,5 @@ CLAUDE.md
 venv/
 *.png
 *.csv
+caltrans-pems/
+.env
