@@ -80,6 +80,10 @@ SERIES = ['#2a78d6', '#eb6834', '#1baf7a', '#eda100',
 DIV_POS = '#2a78d6'
 DIV_NEG = '#e34948'
 NEUTRAL = '#f0efec'
+# Sequential single-hue ramp (blue steps 250 -> 700), light = less, deep = more.
+# Starts at 250 so the light end still shows as a thin line on SURFACE.
+SEQ_BLUE = ['#86b6ef', '#6da7ec', '#5598e7', '#3987e5', '#2a78d6', '#256abf',
+            '#1c5cab', '#184f95', '#104281', '#0d366b']
 
 SURFACE = '#fcfcfb'
 TEXT = '#0b0b0b'

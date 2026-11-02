@@ -119,6 +119,7 @@ Zillow Home Value Index by ZIP, relative to the median study ZIP (Jan 2020 = 100
 - `pems_station_district_windows.png`: district-wide morning/midday/PM/Mon-Fri/weekend, and peak timing
 - `pems_station_hourly_index.png`: hour-of-day change by era
 - `pems_station_animation.mp4` / `.gif`: detector map, Oct 2016 → Sep 2026
+- `pems_route_timelapse.mp4` / `.gif`: freeway routes hour by hour through a typical Tue–Thu, Hybrid vs RTO, coloured by volume vs the same hour pre-COVID
 - `acs_rto_step.png`: hybrid-year vs RTO-year change in residents' commuting, with margins of error
 - `acs_long_commuter_index.png`: residents commuting 60+ min as % of 2019, 2021–2025
 - `acs_place_trends.png` / `acs_commute_trends.png`: commuting measures for cities and county groups, 2019–2025
